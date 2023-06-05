@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - BeachZone
+  - CampfireZone
   layers:
   - Default
   - TransparentFX
